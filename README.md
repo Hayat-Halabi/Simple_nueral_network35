@@ -97,4 +97,5 @@ print(report)
 Link to access CSV
 https://drive.google.com/file/d/1dYAGGOWTx3_KFu-wVFUGgvWhmHquJXtr/view?usp=drive_link
 ```
+![image](https://github.com/Hayat-Halabi/Simple_nueral_network35/assets/162086274/8a9c4cfb-a7b7-46ec-90e0-4f4561010a73)
 
